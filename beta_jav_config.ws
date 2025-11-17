@@ -1,9 +1,9 @@
-title=Near-Reality
+title=SSL
 codebase=https://75.185.12.51
 initial_class=client.class
+initial_jar=http://localhost/gamepack.jar
 param=2=https://payments.jagex.com/
 param=3=true
-initial_jar=http://localhost/gamepack.jar
 param=4=1
 param=5=1
 param=6=0
@@ -25,5 +25,3 @@ param=21=0
 param=22=https://auth.runescape.com/
 param=25=228
 param=28=https://account.jagex.com/
-
-
