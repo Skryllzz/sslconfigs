@@ -1,5 +1,5 @@
 title=SSL
-codebase=http://192.168.1.155
+codebase=http://75.185.12.51
 initial_class=client.class
 initial_jar=http://localhost/gamepack.jar
 param=2=https://payments.jagex.com/
@@ -25,4 +25,5 @@ param=21=0
 param=22=https://auth.runescape.com/
 param=25=228
 param=28=https://account.jagex.com/
+
 
